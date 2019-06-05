@@ -1,6 +1,4 @@
-# Politécnico Grancolombiano
-## Integración Continua
-## Ingeniería de Software
+# Politécnico Grancolombiano - Integración Continua - Ingeniería de Software
 
 ## Proyecto Eduvia
 
