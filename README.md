@@ -11,7 +11,7 @@ En el repositorio https://github.com/Maes9104/Eduvia se encuentran los desarroll
 ## Instrucciones
 
 1. Es necesario tener Docker versión 18.x previamente instalado
-2. Clonar este repositorio
+2. Clonar este repositorio https://github.com/garnicag/eduvia.git
 3. Ir a la carpeta raíz del repositorio clonado (eduvia)
 4. En una terminal ejecutar `docker-compose up --build`
 
