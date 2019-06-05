@@ -1,0 +1,23 @@
+version: '3.7'
+
+# Definición de servicios a partir de cada área de trabajo
+# Se define 1 para Front-End, otro para Back-End y otro más para la base de datos MongoDB
+services:
+  frontend:
+    build: eduvia-front
+    ports:
+      - "4201:4200"
+    environment:
+      - NODE_ENV=dev
+
+  backend:
+    build: eduvia-back
+    ports:
+      - "4001:4000"
+    links:
+      - frontend
+
+  database:
+    image: mongo
+    ports:
+      - "27017:27017"
