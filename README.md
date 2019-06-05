@@ -2,7 +2,11 @@
 
 ## Proyecto Eduvia
 
-En este repositorio se encuentran los contenedores de Docker necesarios para el desarrollo del proyecto del curso.
+En este repositorio se encuentran los contenedores de Docker necesarios para el desarrollo del proyecto del curso:
+
+- Frontend: (`eduvia-front`)
+- Backend: (`eduvia-back`)
+- Database: (Creado a partir de la imagen de mongo en Docker)
 
 En el repositorio https://github.com/Maes9104/Eduvia se encuentran los desarrollos del proyecto, más adelante se fusionarán ambos repositorios para la entrega final.
 
