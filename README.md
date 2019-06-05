@@ -23,8 +23,8 @@ Base de datos: http://localhost:27017
 
 ## Integrantes
 
-Gabriel Garnica Gutiérrez (Cód - 1821025713)
-Michael Alexander Espinosa Rico (Cód - 1821981046)
-Mateo Álvarez García (Cód - 1810660157)
-Anyeli Vianed Ruiz Llano (Cód - 1811981289)
-Veronica Alexandra Olaya Bustos (Cód - 1721982976)
+- Gabriel Garnica Gutiérrez (Cód - 1821025713)
+- Michael Alexander Espinosa Rico (Cód - 1821981046)
+- Mateo Álvarez García (Cód - 1810660157)
+- Anyeli Vianed Ruiz Llano (Cód - 1811981289)
+- Veronica Alexandra Olaya Bustos (Cód - 1721982976)
